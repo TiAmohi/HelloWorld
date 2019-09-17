@@ -1,3 +1,8 @@
+ sub2
+12:23 Sept 17th 2019
+
+name this file 'file1'. merge. what will happen.
+=======
 sub
 This is from initial commit. We create a new file named 'file1' same as that in the master branch.
 
@@ -7,3 +12,4 @@ do nothing but try to add some changes to this branch.
 master
 
 What will happen?
+ master

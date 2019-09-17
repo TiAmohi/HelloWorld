@@ -1,0 +1,5 @@
+This is from initial commit. We create a new file named 'file1' same as that in the master branch.
+
+Now we try to merge this sub-branch into master.
+
+What will happen?

@@ -1,3 +1,9 @@
+sub
+This is from initial commit. We create a new file named 'file1' same as that in the master branch.
+
+Now we try to merge this sub-branch into master.
+=======
 do nothing but try to add some changes to this branch.
+master
 
 What will happen?
